@@ -631,6 +631,36 @@
         ]
       }
     },
+    "orbita": {
+      "sha": "d3798620c004d085040857556dd3d7ab2c3ee795",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "orbita",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "orbita-broker-setup",
+            "description": "Help a person choose a broker with an official MCP and connect it next to Órbita, step by step. Use it when the person…"
+          },
+          {
+            "name": "orbita-execution",
+            "description": "How to execute Órbita's plan at your own broker, whichever it is. Use it every time you send orders from orbita_get_nex…"
+          },
+          {
+            "name": "orbita-slot-routine",
+            "description": "When to query Órbita and what to do in each slot of a market day. Use it to schedule your agent or when running a slot.…"
+          },
+          {
+            "name": "orbita-strategy",
+            "description": "Mandate and risk rules of Órbita's single strategy (long only, USD, 35 US-listed names in aerospace, defense, compute,…"
+          }
+        ]
+      }
+    },
     "pstack": {
       "sha": "fadd23794c0075468eb8964b0fd93e06e09486ad",
       "components": {
