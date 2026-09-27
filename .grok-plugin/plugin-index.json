@@ -632,7 +632,7 @@
       }
     },
     "orbita": {
-      "sha": "8818e7b248e9a320c939c16045cb353fb0e07ce9",
+      "sha": "bc4289455822cdb8f4079f756df53b139edfedbd",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
