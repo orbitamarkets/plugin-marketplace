@@ -390,7 +390,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/orbitamarkets/side--orbita-plugin.git",
-        "sha": "e254cb814cf8a031854e4e11892fdbd670298ddd"
+        "sha": "a4acaed33d9730fa47814068f9195b4066bc59c8"
       },
       "homepage": "https://orbita.markets/agents",
       "keywords": ["orbita", "orbita markets", "orbita desk", "orbita trading plan"],
