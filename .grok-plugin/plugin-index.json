@@ -632,7 +632,7 @@
       }
     },
     "orbita": {
-      "sha": "e0e5b8ab18c7cad88b2dab002ed0e9e557c14c1f",
+      "sha": "82f0240c592eb7806facecbef0296672bb4b4d14",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
@@ -649,6 +649,10 @@
           {
             "name": "orbita-execution",
             "description": "How to execute Órbita's plan at your own broker, whichever it is. Use it every time you send orders from orbita_get_nex…"
+          },
+          {
+            "name": "orbita-horizonte",
+            "description": "Órbita Horizonte, the long-term portfolio included in the 6-month and annual plans. How it splits the account with Órbi…"
           },
           {
             "name": "orbita-slot-routine",
