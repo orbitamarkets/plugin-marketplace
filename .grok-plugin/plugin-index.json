@@ -632,7 +632,7 @@
       }
     },
     "orbita": {
-      "sha": "b3ffe45e31ca783aae73034866d45a079ae90cd2",
+      "sha": "c647d3bd563fe34bcc5ca21e031bfccc3461ab41",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
@@ -697,7 +697,7 @@
           },
           {
             "name": "automate-me",
-            "description": "Use for \\\"automate me\\\", \\\"create/update/refresh my -mode skill\\\", \\\"turn/capture my preferences or working style into…"
+            "description": "Use for \\"automate me\\", \\"create/update/refresh my -mode skill\\", \\"turn/capture my preferences or working style into…"
           },
           {
             "name": "blast-radius",
@@ -717,11 +717,11 @@
           },
           {
             "name": "how",
-            "description": "Use for \\\"how does X work\\\", code walkthroughs before changing something, and placement / ownership / layering question…"
+            "description": "Use for \\"how does X work\\", code walkthroughs before changing something, and placement / ownership / layering question…"
           },
           {
             "name": "interrogate",
-            "description": "Use for \\\"interrogate\\\", \\\"adversarial review\\\", \\\"multi-model review\\\", \\\"challenge this\\\", \\\"stress test this code\\\",…"
+            "description": "Use for \\"interrogate\\", \\"adversarial review\\", \\"multi-model review\\", \\"challenge this\\", \\"stress test this code\\",…"
           },
           {
             "name": "maintain-verification-skill",
