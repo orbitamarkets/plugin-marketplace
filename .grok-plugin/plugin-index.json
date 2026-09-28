@@ -632,7 +632,7 @@
       }
     },
     "orbita": {
-      "sha": "a4acaed33d9730fa47814068f9195b4066bc59c8",
+      "sha": "40b3cb90ac7ab1d67041cd8b1e4076288b314e88",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
@@ -656,7 +656,7 @@
           },
           {
             "name": "orbita-strategy",
-            "description": "Mandate and risk rules of Órbita's single strategy (long only, USD, 35 US-listed names in aerospace, defense, compute,…"
+            "description": "Mandate and risk rules of Órbita Pulso, Órbita's short-term strategy (long only, USD, 35 US-listed names in aerospace,…"
           }
         ]
       }
